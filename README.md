@@ -30,7 +30,7 @@ modify address variable in main.py to your value
 | 11   | Weight      |
 | 12   | Weight      |
 
-Impedance and Weight in little-endian format;\
+Impedance and Weight in little-endian format\
 Weight value = [byte_12 byte_11] / 200
 
 additional information about this BLE service in specification \
